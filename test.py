@@ -1,5 +1,6 @@
 # coding=utf-8
 
+import time
 from tqdm import tqdm
 
 def t():
